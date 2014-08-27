@@ -1,3 +1,5 @@
+#Note to self: Add Hash Parse.
+
 class Recipe
   attr_reader :name, :servings, :ingredients, :list
  @@list = []
